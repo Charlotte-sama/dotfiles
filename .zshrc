@@ -1,6 +1,7 @@
 # Created by newuser for 5.9
 
-PROMPT='%n %d >>'
+PROMPT='%n %d %T
+>>'
 
 setopt autocd
 #setopt correct
